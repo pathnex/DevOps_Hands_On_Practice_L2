@@ -21,6 +21,5 @@ Everything uses "Pathnex" (e.g., PathnexEC2, PathnexVPC, PathnexDeployment).
 
 Students must **rewrite all code from scratch** to improve speed and understanding.
 
-Happy learning to my students
-September Batch
+Happy learning,
 Pathnex 
